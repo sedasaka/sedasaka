@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+![Header](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif)
 
 # About me
 - I am Seda, learning Java programming

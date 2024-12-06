@@ -1,8 +1,7 @@
 # Hi there 👋
 ![Header](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif)
 
-# 💻 Java Developer - Continuing Education
-
+# 💻 Junior Java Developer
 Hello, I'm Seda, an aspiring Java Developer specializing in software development, modern frameworks, and cloud technologies. I've enhanced my skills in Java programming through structured training and am now able to build scalable applications and integrate modern technologies into my projects.
 
 ## 📚 What I have learnd during this 1-year-training

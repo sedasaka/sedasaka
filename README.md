@@ -47,11 +47,11 @@ Hello, I'm Seda, an aspiring Java Developer specializing in software development
 - **Operating Systems:** Linux
 
 ## 🚀 Projects
-
+<!--
 ### 1. **Dream Work** - Final project in an agile team
 - Project description: [Brief explanation of the project]
 - Technologies: Java, Spring framework, PostgerSQL, REST API, HTML/CSS + JavaScript
-
+-->
 
 ## 📧 Contact
 

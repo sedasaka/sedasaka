@@ -4,50 +4,36 @@
 # 💻 Junior Java Developer
 Hello, I'm Seda, an aspiring Java Developer specializing in software development, modern frameworks, and cloud technologies. I've enhanced my skills in Java programming through structured training and am now able to build scalable applications and integrate modern technologies into my projects.
 
-## 📚 What I have learnd during this 1-year-training
-
-- **Programming Fundamentals:**
-  - Introduction to programming languages, JVM, IDEs, Linux shell, and Git.
-  
-- **Java:**
-  - Learning basic Java programming concepts.
-  - Test-Driven Development (TDD), coding standards, and debugging techniques.
-  - Applying modern Java frameworks and best practices.
-
-- **Databases:**
-  - Working with SQL and relational databases.
-  - Using Hibernate for object-relational mapping.
-
-- **Frameworks:**
-  - Spring Framework: Inversion of Control (IoC), MVC implementation.
-  - Developing web applications and URL authorization.
-
-- **APIs:**
-  - Creating and consuming RESTful APIs.
-  - Handling HTTP verbs and implementing the Django REST Framework.
-
-- **Cloud Services:**
-  - Experience with AWS (EC2, RDS, S3) and Google Cloud (AppEngine, Cloud Storage).
-  - Deploying and scaling applications in the cloud.
-
-- **Final Project:**
-  - Applying knowledge to real-world projects to develop functional and scalable software solutions.
-
-- **Daily Exercises:**
-  - Practical tasks to deepen and continuously improve my programming skills.
-
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Java, SQL
-- **Frameworks:** Spring, Hibernate, REST Framework
-- **Databases:** PostgreSQL
-- **Cloud:** AWS (EC2, RDS, S3), Google Cloud (AppEngine, Cloud Storage)
-- **Version Control:** Git, GitHub
-- **Development Environments:** IntelliJ IDEA, Eclipse
-- **Operating Systems:** Linux
+- **Programming Languages:**
+  - ![Java](https://img.shields.io/badge/Java-%23F8981D?style=flat-square&logo=java&logoColor=white) [Java](https://www.java.com/)
+  - ![SQL](https://img.shields.io/badge/SQL-%2300709A?style=flat-square&logo=postgresql&logoColor=white) [SQL](https://www.mysql.com/)
+
+- **Frameworks:**
+  - ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white) [Spring](https://spring.io/)
+  - ![Hibernate](https://img.shields.io/badge/Hibernate-%232D324D?style=flat-square&logo=hibernate&logoColor=white) [Hibernate](https://hibernate.org/)
+
+- **Databases:**
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white) [PostgreSQL](https://www.postgresql.org/)
+
+- **Cloud:**
+  - ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=white) [AWS](https://aws.amazon.com/)
+  - ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=flat-square&logo=google-cloud&logoColor=white) [Google Cloud](https://cloud.google.com/)
+
+- **Version Control:**
+  - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) [Git](https://git-scm.com/)
+  - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub](https://github.com/)
+
+- **Development Environments:**
+  - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white) [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+- **Operating Systems:**
+  - ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black) [Linux](https://www.linux.org/)
+
+<!--
 
 ## 🚀 Projects
-<!--
 ### 1. **Dream Work** - Final project in an agile team
 - Project description: [Brief explanation of the project]
 - Technologies: Java, Spring framework, PostgerSQL, REST API, HTML/CSS + JavaScript

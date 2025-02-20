@@ -43,3 +43,4 @@ Hello, I'm Seda, an aspiring Java Developer specializing in software development
 
 - Email: sakaseda@outlook.com
 - LinkedIn: https://www.linkedin.com/in/seda-saka/
+- XING: https://www.xing.com/profile/Seda_Saka2

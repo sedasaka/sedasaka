@@ -1,7 +1,6 @@
 # Hi there 👋
-![Header](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif)
 
-# 💻 Junior Java Developer
+# 💻 Software Developer Java - Engineer
 Hello, I'm Seda, an aspiring Java Developer specializing in software development, modern frameworks, and cloud technologies. I've enhanced my skills in Java programming through structured training and am now able to build scalable applications and integrate modern technologies into my projects.
 
 ## 🛠️ Technologies & Tools
@@ -41,6 +40,6 @@ Hello, I'm Seda, an aspiring Java Developer specializing in software development
 
 ## 📧 Contact
 
-- Email: sakaseda@outlook.com
+- Email: sesaka46@gmail.com
 - LinkedIn: https://www.linkedin.com/in/seda-saka/
 - XING: https://www.xing.com/profile/Seda_Saka2
